@@ -1,0 +1,7 @@
+streamlit
+faiss-cpu
+numpy
+pickle-mixin
+requests
+sentence-transformers
+pdfplumber
